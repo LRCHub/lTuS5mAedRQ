@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "テレキャスタービーボーイ (long ver.)",
+  "base_artist": "すりぃ",
+  "createdAt": "2025-12-17T12:45:47.732289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "テレキャスタービーボーイ",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/01_テレキャスタービーボーイ_すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "テレキャスタービーボーイ",
+      "artist": "麻婆豆腐",
+      "has_synced": true,
+      "path": "select/02_テレキャスタービーボーイ_麻婆豆腐.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "テレキャスタービーボーイ",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/03_テレキャスタービーボーイ_すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "テレキャスタービーボーイ - long ver.",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/04_テレキャスタービーボーイ_-_long_ver._すりぃ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "テレキャスタービーボーイ",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/pl_01_テレキャスタービーボーイ_すりぃ.txt"
+    }
+  ]
+}
